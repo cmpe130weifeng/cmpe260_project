@@ -12,8 +12,7 @@ After you got the model, change the path of model in RPSgame.py to your path.
 checkpoint = torch.load('C:/Users/ray/Downloads/checkpoint.pth')
 ```
 
-</br>
-After you got model, run RPSgame.py. </br>
+After you add model, run RPSgame.py. </br>
 </br>
 </br>
 
