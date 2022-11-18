@@ -13,7 +13,7 @@ checkpoint = torch.load('C:/Users/ray/Downloads/checkpoint.pth')
 ```
 
 </br>
-You can run it using any python IDE. </br>
+After you got model, run RPSgame.py. </br>
 </br>
 </br>
 
