@@ -16,8 +16,9 @@ checkpoint = torch.load('C:/Users/ray/Downloads/checkpoint.pth')
 ```
 
 After you add model, run RPSgame.py. </br>
+</br>
 ![output_screenshot](https://user-images.githubusercontent.com/32551600/202608327-851b5854-fab0-403f-9fd6-d9e4887f4047.png) </br>
-Select an image from you device(R/P/S) to produce an input, and then click "Let's Play" to play the game.
+Select an image(R/P/S) from you device to produce an input, and then click "Let's Play" to play the game.
 </br>
 </br>
 
